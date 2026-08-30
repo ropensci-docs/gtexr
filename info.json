@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "03abf00ad979023b5377ebdf6dff4a19dc79688c",
+    "author": "rmgpanw <rmgpanw@ucl.ac.uk>",
+    "time": "2025-08-19T08:39:42Z",
+    "files": 3,
+    "merge": false,
+    "message": "remove pkgcheck workflow (CI checks all passing, but pkgcheck says they do not)\n"
+  },
+  "repo": "https://github.com/ropensci/gtexr",
+  "pkg": "gtexr",
+  "time": "2026-08-30T07:28:59Z"
+}
